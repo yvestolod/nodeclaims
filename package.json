@@ -1,0 +1,31 @@
+{
+  "name": "nodeclaims",
+  "version": "1.0.0",
+  "description": "Sample Health Claims Microservices REST API",
+  "main": "nodeclaims.js",
+  "scripts": {
+    "test": "node nodeclaims.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yvestolod/nodeclaims.git"
+  },
+  "keywords": [
+    "microservices",
+    "REST",
+    "API",
+    "claims",
+    "Node",
+    "cloud"
+  ],
+  "author": "Yves Tolod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yvestolod/nodeclaims/issues"
+  },
+  "homepage": "https://github.com/yvestolod/nodeclaims#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-rules": "^5.0.0"
+  }
+}
